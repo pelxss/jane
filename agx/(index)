@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>agx</title>
-</head>
-<body>
-    <!doctype html>
+<!doctype html>
 <html>
 <head>
 <script>
@@ -65,10 +57,10 @@ const EnvConfig = {
     custom_skins_url: "https://configs.agario.miniclippt.com/live/custom_skins/",
     load_local_configuration: "false",
     configID: "1317",
-	configVersion: "15",
+    configVersion: "15",
 
-	//Bacon
-	bacon_url: "https://bacon.agario.miniclippt.com/v1.0",
+    //Bacon
+    bacon_url: "https://bacon.agario.miniclippt.com/v1.0",
 
     //Miniclip SDK - Analytics
     goliathUrl: "",
@@ -88,13 +80,17 @@ const EnvConfig = {
     applixirDevId: '3312',
 
     currentEnv: "production"
+
 }
 window.EnvConfig = EnvConfig;
 </script>
+
 <script type="text/javascript">window.presetGameMode=":ffa"</script>
 <script type="text/javascript">var googletag=googletag||{};googletag.cmd=googletag.cmd||[],window.googletag=googletag</script>
 <script>!function(e,n,t,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),(o.push=o).loaded=!0,o.version="2.0",o.queue=[],(a=n.createElement(t)).async=!0,a.src="//connect.facebook.net/en_US/fbevents.js",(f=n.getElementsByTagName(t)[0]).parentNode.insertBefore(a,f))}(window,document,"script"),fbq("init","859937640783233"),fbq("track","PageView")</script>
+
 <noscript><img class="pixel-ad" style="display:none" src="https://www.facebook.com/tr?id=859937640783233&ev=PageView&noscript=1"/></noscript>
+
 <script type="text/javascript">function getUrlVars(){for(var r,e=[],i=window.location.href.slice(window.location.href.indexOf("?")+1).split("&"),n=0;n<i.length;n++)r=i[n].split("="),e.push(r[0]),e[r[0]]=r[1];return e}window.isChrome=/chrome/.test(navigator.userAgent.toLowerCase()),window.ASSETS_ROOT="";var queryVars=getUrlVars();null!=queryVars.v&&(window.location="/v"+queryVars.v);var rpx_params={kw:"",visitor:{},inventory:{}};window.___gcfg={lang:"en-US",parsetags:"explicit"}</script>
 <link href="https://fonts.googleapis.com/css?family=Ubuntu:700" rel="stylesheet">
 <link href="css/styles.2de90042c4058521f703.css" rel="stylesheet">
@@ -126,8 +122,5 @@ window.EnvConfig = EnvConfig;
 <script type="text/javascript" src="bundle_end.5f33f49ea096bd3a66c4.js"></script>
 <script src="https://www.google-analytics.com/cx/api.js?experiment=mpvbHnN-QF2vR9SGzcIcRQ"></script>
 <script type="text/javascript" src="https://cdn.applixir.com/applixir.sdk3.0m.js"></script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'894f2b20dd725493',t:'MTcxODU4NjcxNi4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
-</html>
-
-</body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'894f6de08b61b644',t:'MTcxODU4OTQ1MC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
